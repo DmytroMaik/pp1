@@ -1,0 +1,9 @@
+#imie = input('podaj imie:')
+#nazwisko = input('podaj nazwisko:')
+
+#print(imie + " " + nazwisko)
+#print(f'{imie}{nazwisko}')
+
+x = int(input('x'))
+y = int(input('y'))
+print(x+y)
